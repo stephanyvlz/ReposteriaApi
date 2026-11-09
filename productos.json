@@ -1,0 +1,14 @@
+[
+  { "id": 1,  "nombre": "Pastel de chocolate",        "categoria": "Pasteles", "descripcion": "Grande, 20 porciones, betún de chocolate semiamargo", "unidad": "pastel", "precioMenudeo": 450, "precioMayoreo": 360, "minimoMayoreo": 3 },
+  { "id": 2,  "nombre": "Pastel tres leches",         "categoria": "Pasteles", "descripcion": "Grande, 20 porciones, con crema batida",              "unidad": "pastel", "precioMenudeo": 420, "precioMayoreo": 340, "minimoMayoreo": 3 },
+  { "id": 3,  "nombre": "Pastel red velvet",          "categoria": "Pasteles", "descripcion": "Grande, 20 porciones, relleno de queso crema",        "unidad": "pastel", "precioMenudeo": 520, "precioMayoreo": 420, "minimoMayoreo": 3 },
+  { "id": 4,  "nombre": "Pastel de zanahoria",        "categoria": "Pasteles", "descripcion": "Grande, 20 porciones, con nuez y betún de queso",     "unidad": "pastel", "precioMenudeo": 480, "precioMayoreo": 390, "minimoMayoreo": 3 },
+  { "id": 5,  "nombre": "Cheesecake de fresa",        "categoria": "Postres",  "descripcion": "Mediano, 12 porciones",                               "unidad": "pieza",  "precioMenudeo": 380, "precioMayoreo": 300, "minimoMayoreo": 4 },
+  { "id": 6,  "nombre": "Pay de limón",               "categoria": "Postres",  "descripcion": "Mediano, 12 porciones, con merengue",                 "unidad": "pieza",  "precioMenudeo": 240, "precioMayoreo": 190, "minimoMayoreo": 4 },
+  { "id": 7,  "nombre": "Flan napolitano individual", "categoria": "Postres",  "descripcion": "Porción individual con caramelo",                     "unidad": "pieza",  "precioMenudeo": 38,  "precioMayoreo": 28,  "minimoMayoreo": 24 },
+  { "id": 8,  "nombre": "Gelatina de leche",          "categoria": "Postres",  "descripcion": "Vasito individual",                                   "unidad": "pieza",  "precioMenudeo": 22,  "precioMayoreo": 16,  "minimoMayoreo": 24 },
+  { "id": 9,  "nombre": "Cupcakes surtidos",          "categoria": "Panadería dulce", "descripcion": "Caja de 12 piezas, sabores surtidos",          "unidad": "caja",   "precioMenudeo": 260, "precioMayoreo": 210, "minimoMayoreo": 4 },
+  { "id": 10, "nombre": "Brownies",                   "categoria": "Panadería dulce", "descripcion": "Charola de 12 piezas con nuez",                "unidad": "charola","precioMenudeo": 220, "precioMayoreo": 175, "minimoMayoreo": 4 },
+  { "id": 11, "nombre": "Rol de canela",              "categoria": "Panadería dulce", "descripcion": "Charola de 12 piezas con glaseado",            "unidad": "charola","precioMenudeo": 280, "precioMayoreo": 225, "minimoMayoreo": 3 },
+  { "id": 12, "nombre": "Galletas de avena",          "categoria": "Panadería dulce", "descripcion": "Bolsa de 12 piezas con chispas de chocolate",  "unidad": "bolsa",  "precioMenudeo": 95,  "precioMayoreo": 72,  "minimoMayoreo": 10 }
+]

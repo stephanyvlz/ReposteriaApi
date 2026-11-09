@@ -1,0 +1,19 @@
+# Dependencias (se reinstalan con npm install)
+node_modules/
+
+# Pedidos guardados en archivo (datos de clientes, no subir)
+data/
+
+# Variables de entorno y secretos
+.env
+.env.*
+
+# Logs
+*.log
+npm-debug.log*
+
+# Archivos del sistema y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
